@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,59,0,0,4,26"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel7">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Calibri" size="18" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&lt;-  Back"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel7MouseClicked"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="930" y="20" width="70" height="30"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <Properties>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="ff" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="45" y="54" width="971" height="503"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Calibri" size="18" style="0"/>
+            </Property>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="Treasure Island is Indore&apos;s very first modern-day mall, truly a shopper&#x2019;s heaven, providing a great branded shopping experience, with a huge choice of shops, restaurants/caf&#xe9;s, food-court, multiplex cinema, and service outlets to meet the requirements of locals and visitors alike !! &#xa;&#xa;Popularly known as &apos;TI&apos; among Indoreans, the mall has been completely renovated after a shut-down of more than 9 months, and was re-opened partly in December 2015 !! Pantaloons (and ALL) was the first brand to start its store in the mall after renovation !!&#xa;&#xa;World&apos;s one of the front-running daily fashion brands - GAP - has opened its first store in Indore and Madhya Pradesh (MP) at this mall, on May 21, 2016 !! The &apos;Finest Toy Shop in the World&apos; - Hamleys - has also opened its first-ever store in MP (yeah, that&apos;s true) !! America&apos;s favourite youth fashion brand - Aeropostale - also has its first Central India store here !! Luxury, high-end French brand Lacoste has also opened its first store in MP here !! World&apos;s leading maternity &amp; children&apos;s care brand - Mothercare of UK - and leading American kids fashion brand The Children&apos;s Place have opened their stores here too !! &#xa;&#xa;Leading and iconic fashion store from London - Marks &amp; Spencer, has also opened its first store here !!&#xa;&#xa;&#xa;Also, Reliance Trends, Reliance Digital, etc. are set to open their stores here too, also for first time in Indore !! Nautica and Tommy Hilfiger have opened their second stores in Indore, at this mall !!&#xa;&#xa;PVR Cinemas with the highly-acclaimed PVR Gold (reclining has also now re-started here since January 2016 !! The Body Shop (UK), United Colours of Benetton (UCB), Tommy Hilfiger Travel, Max, Wills Lifestyle, Allen Solly Junior, Zodiac, Meena Bazaar, Global Desi, Samsonite, The Raymond Shop, Raymond Made-to-Measure (M2M), ColorPlus, Arrow, Van Heusen, Lee, Wrangler, Bata, Adidas, Reebok, Blackberry, Me &amp; Moms, Store 99, and others have re-started their stores and so have Big Bazaar and Food Bazaar !!&#xa;&#xa;In the F&amp;B segment, McDonald&apos;s has also restarted its outlet at the same location as earlier, at the ground floor entrance, but it now comes with the premium store-in-store of McCaf&#xe9; too !! The food court on the fourth floor is also open, with many of the previous restaurant outlets such as Domino&apos;s, but few new as well such as Mexican Rodeo, Moti Mahal, Kailash &amp; Prabhat Chaat and Yo China !!&#xa;&#xa;The mall has a parking charge for two-wheelers @ Rs. 30 and four-wheelers @ Rs. 50 !! However, this can waived off, if you&apos;ve purchased goods worth Rs. 500, only at Big Bazaar and have a token from there !!&#xa; &#xa;&#xa;&#xa;Before renovation, Treasure Island Mall had Big Bazaar, Max, Pantaloons, Woodland, Levis, Provogue, Blackberrys, Metro Shoes, Nike, Reebok, Adidas, Benetton, etc. that were extremely popular among the people of Indore !! Luxury accessory brand Hidesign had launched its only exclusive store in Indore here !! For those wishing to add fun &amp; entertainment to their shopping experience, Play On &#x2013; the amusement zone - had complete range of video games and rides !! Shoppers also did dig a bite at the various food outlets such as Indore&apos;s first and only Barista Lavazza Cr&#xe8;me - a luxurious caf&#xe9;, the quick-service Barista Lavazza Espresso Bar, or the lounge-cum-restaurant - TAAS Lounge !! While the Sarovar Portico, a four star business hotel within the premises of the Treasure Island Mall, offered comfortable stay to domestic &amp; international visitors !!&#xa;&#xa;&#xa;Check out more on IndoreRocks.com for Indore&apos;s best restaurants, food festivals, offers, hotels, events, cinemas, movies, attractions, places to visit, and much more !!&#xa;Location &amp; Other Details&#xa;Distance From :&#xa;Railway Station:&#x9;2.00 km&#xa;Bus Stand:&#x9;2.00 km&#xa;Airport:&#x9;8.00 km&#xa;"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="0" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Calibri" size="24" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/kunal/pexels-photo123.jpg"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="-1" height="570"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+  </SubComponents>
+</Form>
